@@ -8,6 +8,8 @@
   <a href="https://www.twitter.com/chill__eno" target="_blank">Twitter</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://www.instagram.com/chill.eno/" target="_blank">Instagram</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://www.threads.net/@chill.eno" target="_blank">Threads</a>
   <br />
   <hr />
 </div>
