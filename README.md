@@ -1,5 +1,5 @@
 <h3 align="center">
-  🌱  IF YOU CAN DREAM IT YOU CAN DO IT 🚬 
+  🌱  IF YOU CAN DREAM IT YOU CAN DO IT 🚀 
 </h3>
 
 <div align="center">
